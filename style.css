@@ -1,0 +1,26 @@
+h1 {
+  color: darkblue;
+}
+
+.box {
+  width: 250px;
+  height: 200px;
+  margin: 100px;
+}
+.red {
+  background-color: rgb(138, 134, 134);
+  padding: 50px;
+}
+.box1 {
+  width: 200px;
+  height: 200px;
+  margin: 70px;
+}
+.blue {
+  background-color: coral;
+  padding: 20px 30px 40px 50px;
+}
+.map {
+  width: 500px;
+  height: 400px;
+}
